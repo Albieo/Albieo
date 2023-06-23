@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my software development skills<br>🤝 I’m looking for help with tips on getting an internship/employment in the tech space<br>🌱 I’m currently learning JS, Node, Django, SQL, and Azure<br>⚡ Fun fact while Chemistry focuses on product development on a micro level, <br>ChemEng scales it to enormous continuous processes. Trust me I studied it
+🔭 I’m currently working on improving my software development skills<br>🤝 I’m looking for help with tips on getting an internship/employment in the tech space<br>🌱 I’m currently learning JS, Node, Django, SQL, and Azure<br>⚡ Fun fact while Chemistry focuses on product development on a micro level, <br>   ChemEng scales it to enormous continuous processes. Trust me I studied it
 
 
 ## 🌐 Socials:
