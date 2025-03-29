@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m always working on improving my software development skills<br>🤝 I’m looking for help with tips on getting an internship/employment in the tech space<br>🌱 I’m currently learning JS, Node, Django, SQL, and Azure<br>⚡ Fun fact while Chemistry focuses on product development on a micro level, <br>   ChemEng scales it to enormous continuous processes. Trust me I studied it
+🔭 I’m always working on improving my software development skills<br>🤝 I’m looking for help with tips on getting an internship/employment in the tech space<br>🌱 I’m currently learning JS, Node, Django, SQL, and Azure<br>⚡ Fun fact while Chemistry focuses on product development on a micro level, <br>   ChemEng scales it to enormous continuous processes. Trust me, I studied it
 
 
 ## 🌐 Socials:
@@ -21,8 +21,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🔭 Roadmap progress
+[![roadmap.sh](https://roadmap.sh/card/tall/64a47774ec22530247ed4eee?variant=dark)](https://roadmap.sh)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Albieo&icon=0&color=0)](https://visitcount.itsvg.in)
