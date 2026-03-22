@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔭 Roadmap progress
-[![roadmap.sh](https://roadmap.sh/card/tall/64a47774ec22530247ed4eee?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64a47774ec22530247ed4eee?variant=dark&roadmaps=full-stack%2Cspring-boot%2Creact%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Albieo&icon=0&color=0)](https://visitcount.itsvg.in)
